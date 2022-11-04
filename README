@@ -8,6 +8,12 @@ dwm is an extremely fast, small, and dynamic window manager for X.
 Requirements
 ------------
 In order to build dwm you need the Xlib header files.
+install fonts : - Jetbrains mono
+		- noto (for emojies)
+		- awesome terminal fonts (i use them in slstatus)
+programm runner : Rofi
+Terminal emulator : alacritty
+		- 
 
 
 Installation
