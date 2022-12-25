@@ -8,6 +8,10 @@ dwm is an extremely fast, small, and dynamic window manager for X.
 Requirements
 ------------
 In order to build dwm you need the Xlib header files.
+to use this build with pywal you have to delete this line in .cache/wal/colors-wal-dwm.h
+`
+ 17     [SchemeUrg] =  { urg_fg,      urg_bg,    urg_border },
+`
 install fonts : - Jetbrains mono
 		- noto (for emojies)
 		- awesome terminal fonts (i use them in slstatus)
